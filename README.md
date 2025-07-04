@@ -17,4 +17,4 @@
 
 最便捷的一点是，所有影片都无需注册或登录。你不需要输入个人信息，也不需要支付任何费用。只需浏览网站，选择影片，点击播放按钮，便可立即开始观看。所有内容完全免费，简单、快捷，无任何广告打扰，给你带来最佳的观影体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/ppw20250704/ppw6 ）</span>
